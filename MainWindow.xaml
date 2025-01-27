@@ -15,13 +15,13 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
 
-        <Image VerticalAlignment="Top" HorizontalAlignment="Left" Width="280" Height="80" Margin="10" Source="C:\Users\227164\source\repos\PITPR1\1.png" ToolTip="Картинка примера"/>
+        <Image VerticalAlignment="Top" HorizontalAlignment="Left" Width="280" Height="80" Margin="10" Source="1.png" ToolTip="Картинка примера"/>
 
         <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">
 
             <StackPanel>
                 <Label Content="X" Margin="10"/>
-                <Label Content="Y" Margin="10"/>
+                <Label Content="P" Margin="10"/>
             </StackPanel>
 
             <StackPanel Margin="10">
